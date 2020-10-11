@@ -1,3 +1,5 @@
+//for more explanation, visit https://www.squirrelwebdesign.com/2020/10/how-i-create-and-send-personalised-pdf-from-Google-Forms-for-free.html
+
 function getResponse() {
   var sheet_app = SpreadsheetApp.getActiveSpreadsheet();
   var sheet = sheet_app.getActiveSheet();
